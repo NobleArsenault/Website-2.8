@@ -3,13 +3,24 @@
     color: #ffffff;
 }
  
-  body{
-background-image: url(../img/jumbo.JPEG);
-background-attachment: fixed;
-background-position: center;
-background-size: cover;
+body{
+  background-image: url(../img/jumbo.JPEG);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
  }
 
+
+
+
+@media screen and (max-width: 768px) {
+body{
+  background-image: url(../img/jumbomobile.JPEG);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+ }
+}
 
 /* #4F4552 PURPLE*/
 
