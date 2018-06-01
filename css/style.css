@@ -1,0 +1,20 @@
+.jumbotron { 
+    background-color: #4F4552;
+    color: #ffffff;
+}
+ 
+  body{
+background-image: url(../img/jumbo.JPEG);
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+ }
+
+
+/* #4F4552 PURPLE*/
+
+/* #D8A6A7 light pink*/
+
+/* #2C5B59 forest green*/
+
+/* #5A1B1F Velvet*/
