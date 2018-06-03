@@ -35,6 +35,30 @@ body{
 
 #bordermevid { border: 3px white solid; }
 
+#about{
+  border-style: solid;
+  border-color: black;
+  border-top: 4px;
+
+  background-color: silver;
+  padding-top: 20px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+#about p{
+  font-size: 20px;
+}
+
+#abouttop{
+  border-style: solid;
+  border-color: black;
+  border-width: 4px;
+  font-size: 24px;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: center;
+}
 /* #4F4552 PURPLE*/
 
 /* #D8A6A7 light pink*/
@@ -42,6 +66,95 @@ body{
 /* #2C5B59 forest green*/
 
 /* #5A1B1F Velvet*/
+
+
+
+
+/*SLANTY SHIT*/
+
+
+#toscrew{
+  background-color: #142E36;
+  border-style: solid;
+  border-width: 5px;
+  border-color: white;
+/*font-size: 36px;
+text-align: center;*/
+
+  top: 20px;
+  left:0px;
+  right:0px;
+  height:140px;
+  color: white ;
+  -ms-transform: skewY(2deg);
+  -webkit-transform: skewY(2deg);
+  transform: skewY(2deg);
+}
+#tounscrew{
+    -ms-transform: skewY(-2deg);
+  -webkit-transform: skewY(-2deg);
+  transform: skewY(-2deg);
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 18px
+}
+
+#contentnav{
+  margin-bottom: 55px;
+}
+.magicfont{
+    width: 100%;
+    letter-spacing: 4px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: 'Impact';
+    text-align:center;
+    font-size:52px;
+    color:white;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow:-10px 3px 10px #710D1C;
+}
+
+.magicfonttech{
+    width: 100%;
+    letter-spacing: 4px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: 'Impact';
+    text-align:center;
+    font-size:52px;
+    color:white;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow:-10px 3px 10px #710D1C;
+}
+
+
+@media screen and (max-width: 600px) {
+  .magicfonttech {
+font-size: 40px;
+
+  }
+}
+
+
+.magicfontpics{
+    width: 100%;
+    letter-spacing: 4px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: 'Impact';
+    text-align:center;
+    font-size:52px;
+    color:white;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow:-10px 3px 10px #710D1C;
+}
+
+/*SLANTY SHIT*/
+
 
 
 
