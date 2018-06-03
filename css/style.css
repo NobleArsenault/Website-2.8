@@ -22,6 +22,19 @@ body{
  }
 }
 
+.logo {
+    color: #2C5B59;
+    font-size: 200px;
+}
+@media screen and (max-width: 768px) {
+    .col-sm-4 {
+        text-align: center;
+        margin: 25px 0;
+    }
+}
+
+#bordermevid { border: 3px white solid; }
+
 /* #4F4552 PURPLE*/
 
 /* #D8A6A7 light pink*/
