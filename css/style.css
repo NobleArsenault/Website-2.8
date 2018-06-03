@@ -1,8 +1,14 @@
 .jumbotron { 
-    background-color: #4F4552;
+    background-color: #99979B;
+  border-style: solid;
+  border-width: 5px;
+  border-color: white;
+  border-top: 5px;
+  border-left: 5px;
+  border-right: 5px;
     color: #ffffff;
 }
- 
+/* #E2C270, #D8A6A7, #6EBFDF*/
 body{
   background-image: url(../img/jumbo.JPEG);
   background-attachment: fixed;
@@ -40,7 +46,7 @@ body{
   border-color: black;
   border-top: 4px;
 
-  background-color: silver;
+  background-color: #D8A6A7;
   padding-top: 20px;
   padding-left: 25px;
   padding-right: 25px;
@@ -51,6 +57,7 @@ body{
 }
 
 #abouttop{
+  background: linear-gradient(to right, #E2C270, #D8A6A7, #6EBFDF);
   border-style: solid;
   border-color: black;
   border-width: 4px;
@@ -58,6 +65,40 @@ body{
   margin-bottom: 0;
   margin-top: 0;
   text-align: center;
+}
+
+#abouttop h4{
+    font-size: 24px;
+}
+
+#techskills{
+  border-style: solid;
+  border-color: black;
+  border-top: 4px;
+
+  background-color: #D8A6A7;
+  padding-top: 20px;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-bottom: 20px;
+}
+
+#techskills p{
+  font-size: 20px;
+}
+
+#techtop{
+  border-style: solid;
+  border-color: black;
+  border-width: 4px;
+  font-size: 24px;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: center;
+}
+
+#techtop h4{
+    font-size: 24px;
 }
 /* #4F4552 PURPLE*/
 
@@ -74,10 +115,12 @@ body{
 
 
 #toscrew{
-  background-color: #142E36;
+  background-color: #99979B;
   border-style: solid;
   border-width: 5px;
   border-color: white;
+  border-left: 5px;
+  border-right: 5px;
 /*font-size: 36px;
 text-align: center;*/
 
@@ -107,13 +150,13 @@ text-align: center;*/
     letter-spacing: 4px;
     text-align: center;
     vertical-align: middle;
-    font-family: 'Impact';
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     text-align:center;
     font-size:52px;
     color:white;
     font-weight: bold;
     font-style: italic;
-    text-shadow:-10px 3px 10px #710D1C;
+/*    text-shadow:-10px 3px 10px #710D1C;*/
 }
 
 .magicfonttech{
@@ -121,13 +164,13 @@ text-align: center;*/
     letter-spacing: 4px;
     text-align: center;
     vertical-align: middle;
-    font-family: 'Impact';
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     text-align:center;
     font-size:52px;
     color:white;
     font-weight: bold;
     font-style: italic;
-    text-shadow:-10px 3px 10px #710D1C;
+/*    text-shadow:-10px 3px 10px #710D1C;*/
 }
 
 
@@ -144,13 +187,13 @@ font-size: 40px;
     letter-spacing: 4px;
     text-align: center;
     vertical-align: middle;
-    font-family: 'Impact';
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     text-align:center;
     font-size:52px;
     color:white;
     font-weight: bold;
     font-style: italic;
-    text-shadow:-10px 3px 10px #710D1C;
+/*    text-shadow:-10px 3px 10px #710D1C;*/
 }
 
 /*SLANTY SHIT*/
@@ -159,39 +202,6 @@ font-size: 40px;
 
 
 /*LINKS*/
-#connect{
-
-    width: 2000px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-#linkss{
-  color: white;
-  padding-left: 100px;
-  padding-right: 100px;
-  font-size: 12px;
-  text-align: center;
-  margin-left: 0em;
-
-}
-
-@media screen and (max-width: 600px) {
-  #linkss {
-
-    font-size:12px;
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-}
-
-
-a{
-  margin-left: auto;
-  margin-right: auto;
-  color: white;
-}
-
 
 /*LINKS*/
 
