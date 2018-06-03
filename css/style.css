@@ -1,5 +1,8 @@
 .jumbotron { 
-    background-color: #99979B;
+    background-image: url(../img/jumbotron.jpg);
+      background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
   border-style: solid;
   border-width: 5px;
   border-color: white;
@@ -8,6 +11,8 @@
   border-right: 5px;
     color: #ffffff;
 }
+
+
 /* #E2C270, #D8A6A7, #6EBFDF*/
 body{
   background-image: url(../img/jumbo.JPEG);
@@ -88,6 +93,7 @@ body{
 }
 
 #techtop{
+  background: linear-gradient(to right, #E2C270, #D8A6A7, #6EBFDF);
   border-style: solid;
   border-color: black;
   border-width: 4px;
