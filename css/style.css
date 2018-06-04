@@ -12,6 +12,14 @@
   margin-top: 50px;
 }
 
+@media screen and (max-width: 768px) {
+.jumbotron{
+  background-image: url(../img/jumbotronmobile.JPEG);
+  background-position: center;
+  background-size: cover;
+  border: none;
+ }
+}
 
 /* #E2C270, #D8A6A7, #6EBFDF*/
 body{
@@ -26,7 +34,7 @@ body{
 
 @media screen and (max-width: 768px) {
 body{
-  background-image: url(../img/jumbomobile.JPEG);
+  background-image: url(../img/jumbomobile2.JPEG);
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
