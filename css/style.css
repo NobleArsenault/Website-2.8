@@ -1,5 +1,5 @@
 .jumbotron { 
-  background-image: url(../img/jumbotron.JPEG);
+  background-image: url(../img/jumbotronmobile2.JPEG);
   background-position: center;
   background-size: cover;
   border-style: solid;
@@ -14,10 +14,9 @@
 
 @media screen and (max-width: 768px) {
 .jumbotron{
-  background-image: url(../img/jumbotronmobile.JPEG);
+  background-image: url(../img/jumbotronmobile2.JPEG);
   background-position: center;
   background-size: cover;
-  border: none;
  }
 }
 
@@ -34,7 +33,7 @@ body{
 
 @media screen and (max-width: 768px) {
 body{
-  background-image: url(../img/jumbomobile2.JPEG);
+  background-image: url(../img/jumbomobile3.JPEG);
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
