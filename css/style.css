@@ -1,5 +1,5 @@
 .jumbotron { 
-  background-image: url(../img/jumbotronmobile2.JPEG);
+  background-image: url(../img/jumbotron3.JPEG);
   background-position: center;
   background-size: cover;
   border-style: solid;
@@ -14,7 +14,7 @@
 
 @media screen and (max-width: 768px) {
 .jumbotron{
-  background-image: url(../img/jumbotronmobile2.JPEG);
+  background-image: url(../img/jumbotronmobile4.JPEG);
   background-position: center;
   background-size: cover;
  }
@@ -39,6 +39,7 @@ body{
   background-size: cover;
  }
 }
+
 
 .logo {
     color: #2C5B59;
