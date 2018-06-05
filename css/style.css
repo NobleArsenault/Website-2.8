@@ -1,5 +1,5 @@
 .jumbotron { 
-  background-image: url(../img/jumbotron3.JPEG);
+  background-image: url(../img/newjumbo2.JPEG);
   background-position: center;
   background-size: cover;
   border-style: solid;
@@ -14,7 +14,7 @@
 
 @media screen and (max-width: 768px) {
 .jumbotron{
-  background-image: url(../img/jumbotronmobile4.JPEG);
+  background-image: url(../img/newjumbo2.JPEG);
   background-position: center;
   background-size: cover;
  }
@@ -22,7 +22,7 @@
 
 /* #E2C270, #D8A6A7, #6EBFDF*/
 body{
-  background-image: url(../img/jumbo.JPEG);
+  background-image: url(../img/newbackground.JPEG);
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -33,7 +33,7 @@ body{
 
 @media screen and (max-width: 768px) {
 body{
-  background-image: url(../img/jumbomobile3.JPEG);
+  background-image: url(../img/newbackground.JPEG);
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -55,8 +55,8 @@ body{
 #bordermevid { border: 3px white solid; }
 
 #aboutcolumn{
-  padding-left: 25%; 
-  padding-right: 25%;
+  padding-left: 20%; 
+  padding-right: 20%;
 }
 
 @media screen and (min-width: 0px) and (max-width: 799px) {
@@ -71,18 +71,19 @@ body{
   border-color: black;
   border-top: 4px;
 
-  background-color: #D8A6A7;
+  background-color: white;
   padding-top: 20px;
   padding-left: 25px;
   padding-right: 25px;
 }
 
 #about p{
-  font-size: 20px;
+  font-size: 22px;
 }
 
 #abouttop{
-  background: linear-gradient(to right, #E2C270, #D8A6A7, #6EBFDF);
+/*  (RETRO COLORS) linear-gradient(to right, #E2C270, #D8A6A7, #6EBFDF)*/
+  background: white;
   border-style: solid;
   border-color: black;
   border-width: 4px;
@@ -113,7 +114,7 @@ body{
   border-color: black;
   border-top: 4px;
 
-  background-color: #D8A6A7;
+  background-color: white;
   padding-top: 20px;
   padding-left: 25px;
   padding-right: 25px;
@@ -125,7 +126,7 @@ body{
 }
 
 #techtop{
-  background: linear-gradient(to right, #E2C270, #D8A6A7, #6EBFDF);
+  background: white;
   border-style: solid;
   border-color: black;
   border-width: 4px;
