@@ -34,10 +34,10 @@ body{
 @media screen and (max-width: 768px) {
 body{
   background-image: url(../img/newbackgroundmobile4.JPEG);
-
+  background-attachment:scroll;
   background-position: center;
-
- }
+/*  background-repeat: repeat-y;
+*/ }
 }
 
 
