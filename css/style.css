@@ -14,7 +14,7 @@
 
 @media screen and (max-width: 768px) {
 .jumbotron{
-  background-image: url(../img/newjumbo3.JPEG);
+  background-image: url(../img/newjumbo4.JPEG);
   background-position: center;
   background-size: cover;
  }
@@ -33,7 +33,7 @@ body{
 
 @media screen and (max-width: 768px) {
 body{
-  background-image: url(../img/mobileback.JPEG);
+  background-image: url(../img/mobileback3.JPEG);
   background-attachment:scroll;
   background-position: center;
   background-size: 100%;
