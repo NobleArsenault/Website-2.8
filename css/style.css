@@ -36,7 +36,7 @@ body{
   background-image: url(../img/newbackground.JPEG);
   background-attachment:fixed;
   background-position: center;
-  background-size: cover;
+  background-size: auto;
  }
 }
 
