@@ -23,7 +23,6 @@
 /* #E2C270, #D8A6A7, #6EBFDF*/
 body{
   background-image: url(../img/newbackground.JPEG);
-  background-attachment: fixed;
   background-position: center;
   background-size: cover;
  }
@@ -34,10 +33,10 @@ body{
 @media screen and (max-width: 768px) {
 body{
   background-image: url(../img/newbackgroundmobile4.JPEG);
-  background-attachment:scroll;
+
   background-position: center;
-/*  background-repeat: repeat-y;
-*/ }
+
+ }
 }
 
 
