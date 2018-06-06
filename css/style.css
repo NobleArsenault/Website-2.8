@@ -33,7 +33,7 @@ body{
 
 @media screen and (max-width: 768px) {
 body{
-  background-image: url(../img/newbackgroundmobile.JPEG);
+  background-image: url(../img/newbackgroundmobile3.JPEG);
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -154,7 +154,7 @@ body{
 
 
 #toscrew{
-  background-color: #99979B;
+  background-color: #DB314E;
   border-style: solid;
   border-width: 5px;
   border-color: white;
@@ -243,7 +243,7 @@ font-size: 40px;
 /*NAVBAR*/
 #navbarcolor{
   width: 100%;
-  background-color: #99979B;
+  background-color: #BD2B40;
 }
 
 
