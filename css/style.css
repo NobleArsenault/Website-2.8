@@ -33,7 +33,7 @@ body{
 
 @media screen and (max-width: 768px) {
 body{
-  background-image: url(../img/newbackgroundmobile4.JPEG);
+  background-image: url(../img/newbackground.JPEG);
   background-attachment:fixed;
   background-position: center;
   background-size: auto;
