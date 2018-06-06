@@ -68,14 +68,14 @@ body{
 
 #about{
   border-style: solid;
-  border-color: white;
+  border-color: black;
   border-top: 4px;
 
-  background-color: black;
+  background-color: white;
   padding-top: 20px;
   padding-left: 25px;
   padding-right: 25px;
-  color: white;
+  color: black;
 }
 
 #about p{
@@ -84,9 +84,9 @@ body{
 
 #abouttop{
 /*  (RETRO COLORS) linear-gradient(to right, #E2C270, #D8A6A7, #6EBFDF)*/
-  background: black;
+  background: #DB314E;
   border-style: solid;
-  border-color: white;
+  border-color: black;
   border-width: 4px;
   font-size: 24px;
   margin-bottom: 0;
@@ -245,7 +245,7 @@ font-size: 40px;
 /*NAVBAR*/
 #navbarcolor{
   width: 100%;
-  background-color: #BD2B40;
+  background-color: #DB314E;
 }
 
 
