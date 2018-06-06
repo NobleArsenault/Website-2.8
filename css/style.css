@@ -34,7 +34,7 @@ body{
 @media screen and (max-width: 768px) {
 body{
   background-image: url(../img/newbackground.JPEG);
-/*  background-attachment:fixed;*/
+  background-attachment:scroll;
   background-position: center;
   background-size: auto;
  }
