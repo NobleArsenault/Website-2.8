@@ -33,7 +33,7 @@ body{
 
 @media screen and (max-width: 768px) {
 body{
-  background-image: url(../img/mobileback.jpg);
+  background-image: url(../img/mobileback.JPEG);
   background-attachment:scroll;
   background-position: center;
   background-size: 100%;
