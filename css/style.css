@@ -34,9 +34,9 @@ body{
 @media screen and (max-width: 768px) {
 body{
   background-image: url(../img/newbackgroundmobile4.JPEG);
-  background-attachment: fixed;
+
   background-position: center;
-  background-size: cover;
+
  }
 }
 
@@ -84,7 +84,7 @@ body{
 
 #abouttop{
 /*  (RETRO COLORS) linear-gradient(to right, #E2C270, #D8A6A7, #6EBFDF)*/
-  background: #DB314E;
+  background: black;
   border-style: solid;
   border-color: black;
   border-width: 4px;
@@ -128,7 +128,7 @@ body{
 }
 
 #techtop{
-  background: white;
+  background: black;
   border-style: solid;
   border-color: black;
   border-width: 4px;
@@ -136,6 +136,7 @@ body{
   margin-bottom: 0;
   margin-top: 0;
   text-align: center;
+  color: white;
 }
 
 #techtop h4{
@@ -156,7 +157,8 @@ body{
 
 
 #toscrew{
-  background-color: #DB314E;
+  background-color: black ;  
+  /*#DB314E*/
   border-style: solid;
   border-width: 5px;
   border-color: white;
