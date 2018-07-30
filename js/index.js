@@ -3,3 +3,8 @@
 // })
 
 
+$(document).ready(function(){
+
+$("#BodyField").delay(5000).fadeOut();
+});
+
